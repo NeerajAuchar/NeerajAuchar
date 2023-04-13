@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neeraj Auchar</h1>
 <h3 align="center">A passionate full-stack developer from India <3.</h3>
-  <img align="right" width=400 alt="Coding" src="https://www.bing.com/images/search?view=detailV2&ccid=RCHAvxJp&id=199AFFA21FB457515ECDC07AF8C38C7CD28A9625&thid=OIP.RCHAvxJppHwsrNzgukjNuQHaHa&mediaurl=https%3a%2f%2fimages.creativemarket.com%2f0.1.0%2fps%2f1068169%2f6250%2f6250%2fm1%2ffpnw%2fwm0%2fprogramming-.jpg%3f1457490303%26s%3d525e71dae5c577b611a1b5499c6eaa5e&exph=6250&expw=6250&q=Coding+Design&simid=608051757678541098&FORM=IRPRST&ck=A8BDD72C0241C467B48DA17B7FF1121D&selectedIndex=7&ajaxhist=0&ajaxserp=0" >
+  <img align="right" width=400 alt="Coding" src="https://img.freepik.com/vector-gratis/diseno-software_24877-44901.jpg?size=338&ext=jpg" >
 
 
 <p align="left"> <a href="https://twitter.com/aucharneeraj" target="blank"><img src="https://img.shields.io/twitter/follow/aucharneeraj?logo=twitter&style=for-the-badge" alt="aucharneeraj" /></a> </p>
