@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aucharneeraj" target="blank"><img src="https://img.shields.io/twitter/follow/aucharneeraj?logo=twitter&style=for-the-badge" alt="aucharneeraj" /></a> </p>
 
-- 🔭 I’m currently working on **RESUMECRAFT (free online resume builder)**
+- 🔭 I’m currently working on **Sortin Analyzer **
 
 - 🌱 I’m currently learning **Advance JAVA , Spring Boots , Microservices**
 
