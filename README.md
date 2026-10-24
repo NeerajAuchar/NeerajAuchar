@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeraj Auchar</h1>
-<h3 align="center">A passionate full-stack developer from India <3.</h3>
+<h3 align="center">A passionate student from India <3.</h3>
   <img align="right" width=400 alt="Coding" src="https://img.freepik.com/vector-gratis/diseno-software_24877-44901.jpg?size=338&ext=jpg" >
 
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on Sortin Analyzer 
 
-- 🌱 I’m currently learning **Advance JAVA , Spring Boots , Microservices**
+- 🌱 I’m currently learning **ML **
 
-- 💬 Ask me about **react, python , java , flask**
+- 💬 Ask me about ** python , java , C, C++**
 
 - 📫 How to reach me **neerajauchar@gmail.com**
 
