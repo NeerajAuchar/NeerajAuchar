@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/aucharneeraj" target="blank"><img src="https://img.shields.io/twitter/follow/aucharneeraj?logo=twitter&style=for-the-badge" alt="aucharneeraj" /></a> </p>
 
-- 🔭 I’m currently working on Sortin Analyzer 
+- 🌱 I’m currently learning ML
 
-- 🌱 I’m currently learning **ML **
-
-- 💬 Ask me about ** python , java , C, C++**
+- 💬 Ask me about python , java , C, C++
 
 - 📫 How to reach me **neerajauchar@gmail.com**
 
-- ⚡ Fun fact **I think I can.....**
+- ⚡ Fun fact I think I can.....
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
