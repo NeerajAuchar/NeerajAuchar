@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ML
 
-- 💬 Ask me about python , java , C, C++
+- 💬 Ask me about python, C, C++, Java
 
 - 📫 How to reach me **neerajauchar@gmail.com**
 
