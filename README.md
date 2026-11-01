@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Neeraj Auchar</h1>
+<h1 align="center">Hi 👋, I'm Neeru </h1>
 <h3 align="center">A passionate student from India <3.</h3>
-  <img align="right" width=400 alt="Coding" src="https://img.freepik.com/vector-gratis/diseno-software_24877-44901.jpg?size=338&ext=jpg" >
+  <img align="right" width=400 alt="Coding" src="https://t4.ftcdn.net/jpg/04/39/93/99/240_F_439939988_0dyP7r7AOr7uGbNRWleWiKsjqc75vMKm.jpg?size=338&ext=jpg" >
 
 
 <p align="left"> <a href="https://twitter.com/aucharneeraj" target="blank"><img src="https://img.shields.io/twitter/follow/aucharneeraj?logo=twitter&style=for-the-badge" alt="aucharneeraj" /></a> </p>
