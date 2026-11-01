@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/aucharneeraj" target="blank"><img src="https://img.shields.io/twitter/follow/aucharneeraj?logo=twitter&style=for-the-badge" alt="aucharneeraj" /></a> </p>
 
+- My wife CSE, my Ex-ECE.
 - 🌱 I’m currently learning ML
 
 - 💬 Ask me about python, C, C++, Java
 
 - 📫 How to reach me **neerajauchar@gmail.com**
-
-- ⚡ Fun fact I think I can.....
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
